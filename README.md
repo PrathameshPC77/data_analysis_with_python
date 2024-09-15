@@ -26,7 +26,7 @@ In this course, you'll learn how to:
 ## How to Use
 Clone this repository to explore the notebooks and datasets:
 
-    git clone https://github.com/PrathameshPC77/data-analysis-python-course.git
+    git clone https://github.com/PrathameshPC77/data_analysis_with_python.git
     
 Follow along with the notebooks to learn the techniques covered in the course.
 
